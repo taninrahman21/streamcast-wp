@@ -1,5 +1,5 @@
 === StreamCast – bring live radio to your site with a sleek player ===
-Contributors: bplugins, taninrahman, shehabulislam, freemius
+Contributors: bplugins, shamim10, freemius
 Tags: live stream, icecast, shoutcast, radio player, audio player
 Tested up to: 7.1
 Stable tag: 2.4.6
