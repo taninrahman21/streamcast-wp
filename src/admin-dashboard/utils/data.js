@@ -98,6 +98,13 @@ export const welcomeInfo = (adminUrl) => {
     },
     changelogs: [
       {
+        version: "2.4.6 - 15 October 2026",
+        type: "update",
+        list: [
+          "Fixed: Server-Side Request Forgery (SSRF) vulnerability in the stream metadata AJAX endpoint."
+        ]
+      },
+      {
         version: "2.4.5 - 25 August 2026",
         type: "update",
         list: [
